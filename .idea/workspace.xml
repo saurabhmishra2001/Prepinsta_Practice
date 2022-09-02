@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0721aecb-b0ac-4e87-9767-e046d655621e" name="Changes" comment="Even Odd Program">
-      <change afterPath="$PROJECT_DIR$/src/GreaterAmongTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreaterAmongThreeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GreaterAmongTwo">
+  <component name="RunManager" selected="Application.GreaterAmongThreeNumber">
     <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Even_Odd" />
       <module name="Prepinsta_Practice" />
@@ -47,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreaterAmongTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreaterAmongTwo" />
+    <configuration name="GreaterAmongThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreaterAmongThreeNumber" />
       <module name="Prepinsta_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Positive_Or_Negative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Positive_Or_Negative" />
+    <configuration name="GreaterAmongTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreaterAmongTwo" />
       <module name="Prepinsta_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreaterAmongThreeNumber" />
         <item itemvalue="Application.GreaterAmongTwo" />
         <item itemvalue="Application.SumOfGivenRange" />
         <item itemvalue="Application.SumOfNaturalNumber" />
         <item itemvalue="Application.Even_Odd" />
-        <item itemvalue="Application.Positive_Or_Negative" />
       </list>
     </recent_temporary>
   </component>
