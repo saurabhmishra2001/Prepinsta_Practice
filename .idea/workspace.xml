@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0721aecb-b0ac-4e87-9767-e046d655621e" name="Changes" comment="Even Odd Program">
-      <change afterPath="$PROJECT_DIR$/src/PrimeToGivenRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeToGivenRange">
+  <component name="RunManager" selected="Application.SumOfDigits">
     <configuration name="GreaterAmongThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GreaterAmongThreeNumber" />
-      <module name="Prepinsta_Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreaterAmongTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreaterAmongTwo" />
       <module name="Prepinsta_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfDigits" />
+      <module name="Prepinsta_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leapYear" />
       <module name="Prepinsta_Practice" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.PrimeToGivenRange" />
         <item itemvalue="Application.Prime" />
         <item itemvalue="Application.leapYear" />
         <item itemvalue="Application.GreaterAmongThreeNumber" />
-        <item itemvalue="Application.GreaterAmongTwo" />
       </list>
     </recent_temporary>
   </component>
