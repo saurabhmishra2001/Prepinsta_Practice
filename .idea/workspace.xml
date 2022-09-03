@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0721aecb-b0ac-4e87-9767-e046d655621e" name="Changes" comment="Even Odd Program">
-      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="GreaterAmongThreeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreaterAmongThreeNumber" />
-      <module name="Prepinsta_Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseNumber">
     <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prime" />
       <module name="Prepinsta_Practice" />
@@ -56,6 +49,13 @@
     </configuration>
     <configuration name="PrimeToGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeToGivenRange" />
+      <module name="Prepinsta_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseNumber" />
       <module name="Prepinsta_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.PrimeToGivenRange" />
         <item itemvalue="Application.Prime" />
         <item itemvalue="Application.leapYear" />
-        <item itemvalue="Application.GreaterAmongThreeNumber" />
       </list>
     </recent_temporary>
   </component>
